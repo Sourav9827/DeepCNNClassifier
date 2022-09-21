@@ -139,3 +139,5 @@ artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-18-12-21-34/t
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-18-12-21-34/validation/events.out.tfevents.1663484259.C17HAWKE.5048.1.v2
 artifacts/training/model.h5
 artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-18-12-28-08/train/events.out.tfevents.1663484298.SMLAPI.12244.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-21-12-46-25/train/events.out.tfevents.1663744612.SMLAPI.3372.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2022-09-21-13-32-08/train/events.out.tfevents.1663747339.SMLAPI.20956.0.v2
